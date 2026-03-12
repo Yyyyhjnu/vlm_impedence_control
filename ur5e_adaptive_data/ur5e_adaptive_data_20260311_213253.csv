@@ -1,0 +1,3 @@
+time_s,y_pos_m,z_pos_m,fz_force_sensor_N,fz_force_base_N,adaptive_phi,dynamic_sigma
+3.2541,-0.3776,0.433981,-141.645,146.201,-9.6e-05,0.001
+3.2941,-0.37775,0.869856,0.0,0.0,-4.6e-05,0.001
